@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ranters creed being a true copie of the examinations of a blasphemous sort of people, commonly called ranters, whose names are herein particularised, together with the name of their pretended God almighty, and their false prophet : taken before Thomas Hubbert Esquire ... with a declaration of their fantastic gestures and deportments as they were coming before him, and in his presence : and now committed to the New Prison at Clarkenwell.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58048</idno><idno type="EEBO-CITATION">13555832</idno>
+  <idno type="VID">100260</idno>
+  <idno type="EEBO-PROQUEST">2264217979</idno>
+  
+            <idno type="STC">Wing R250</idno>
+            <idno type="STC">ESTC R33766</idno>
+            <idno type="OCLC">13555832</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1044:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ranters creed being a true copie of the examinations of a blasphemous sort of people, commonly called ranters, whose names are herein particularised, together with the name of their pretended God almighty, and their false prophet : taken before Thomas Hubbert Esquire ... with a declaration of their fantastic gestures and deportments as they were coming before him, and in his presence : and now committed to the New Prison at Clarkenwell.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jamex Moxon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ranters.</term>
+               <term type="topical_term">Christian sects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100260:1"/>
+            <pb facs="tcp:100260:1"/>
+            <p>The Ranters Creed.</p>
+            <p>Being a true Copie of the Examina<g ref="char:EOLhyphen"/>tions of a blasphemous sort of people, commonly called RANTERS.</p>
+            <p>Whose Names are herein particu<g ref="char:EOLhyphen"/>larised, together with the name of their pretended god almighty, and their false Prophet.</p>
+            <p>Taken before <hi>Thomas Hubbert</hi> Esquire, one of the Justices of the Peace for the County of <hi>Middlesex.</hi>
+            </p>
+            <p>
+               <hi>With</hi> A Declaration of their fantastick gestures and deportments as they were coming before him, and in his presence. And now committed to the New Prison at <hi>Clarkenwell.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 TIM. 3.6.</hi>
+               </bibl>
+               <p>For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James Moxon,</hi> 1651.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:100260:2"/>
+            <head>The <hi>PRINTER</hi> to the <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>SUch a madress hath surpriz'd some men, that their own <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they account Oracles, pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ending New Revelati<g ref="char:EOLhyphen"/>ons, higher Dispensations, uttering nonsensical Parables and Mysteries, which neither their Auditors or themselves under<g ref="char:EOLhyphen"/>stand; esteeming highly their conceits, and derogating from, if not wholy denying the Scripture, that sacred Rule for all our actions.</p>
+            <p>These <hi>creep into houses, leading captive silly women laden with sins, and led away with every lust</hi>
+               <note n="a" place="margin">2 <hi>Tim.</hi> 3 6.</note>. These <hi>lay wait as he that setteth snares, they set a trap, they catch men</hi>
+               <note n="b" place="margin">
+                  <hi>Jer.</hi> 5.26.</note>; <hi>They deceive every one his Neighbour, and will not speak Truth; they have taught their tongues to speak lyes, and weary themselves to commit iniquity</hi>
+               <note n="c" place="margin">
+                  <hi>Jer.</hi> 9.5.</note>; and (<hi>Alexander</hi>-like) are so arr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gant, to Deifie (or rather Daemonize) themselves, that they may commit wickedness without controul.</p>
+            <p>Nor is it a matter of much Admiration, seeing it is no more then our Saviour foretold; <hi>If any man say unto you, Lo, here is Christ, or there; believe it not: For there shall arise false Christs, and false Prophets</hi>
+               <note n="d" place="margin">
+                  <hi>Matth</hi> 24.23, 24</note>. But embrace the Apostles rule, <hi>Believe not every spirit, but try the spirits whether they are of God; because many false Prophets are gone out</hi>
+               <note n="e" place="margin">1 <hi>John</hi> 4.1. <hi>to</hi> 4.</note>.</p>
+            <p>For this end (Courteous Reader) I have exposed these se<g ref="char:EOLhyphen"/>veral examinations to the view of the World, that their stu<g ref="char:EOLhyphen"/>pidity being manifest, their folly may be avoided.</p>
+            <closer>
+               <signed>
+                  <hi>Thime,</hi> J. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100260:2"/>
+            <head>The Examination of ELISABETH HAYGOOD, taken the 24<seg rend="sup">th</seg> of <hi>May</hi> 1951. before THOMAS HUBBERT Esquire, one of the Justices of the Peace for the County of Mid<g ref="char:EOLhyphen"/>dlesex.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ho being taken in the Company of a blasphemous sort of people, com<g ref="char:EOLhyphen"/>monly called <hi>Ranters,</hi> and examined; She confesseth, and saith,</p>
+            <p>
+               <hi>That</hi> John Robins <hi>is her God Almighty, and that he is the eter<g ref="char:EOLhyphen"/>nal God, and Father of Jesus Christ, and that Jesus Christ is now in the womb of</hi> Joan Robins, <hi>one of her society, and that he shall be born of her about five weeks hence; and she looks to be saved by none other God, but her God</hi> John Robins.</p>
+            <p>And further she saith, <hi>That the said</hi> John Robins <hi>is the Mediator between God and her, and that Christ is the Mediator between</hi> John Robins <hi>and her.</hi>
+            </p>
+            <p>And further, she refuseth to set her name to this her Examination; for she saith, <hi>she will not take the Divel's Pen into her hand, or acknowledge the Divel's power.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="2" facs="tcp:100260:3"/>
+            <head>The Examination of MARGARET HOLLIS Spinster, taken the day and yeer abovesaid.</head>
+            <p>VVHo being then likewise examined, confesseth and saith; <hi>That the aforesaid</hi> John Robins <hi>is her only Deliverer, and God Almighty.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>The Examination of JOAN ROBINS taken as aforesaid.</head>
+            <p>WHo confesseth and saith, <hi>That she lived with</hi> Joshua Garment <hi>(by the Word of the Lord) as his wife three yeers; and that she hath lived with the abovesaid</hi> John Robins <hi>these three quarters of a yeer, as her Flesh and Bone; and that the said</hi> John Robins <hi>is her Deliverer; and that the Lord told her about four yeers since, that she should conceive of a child that should be great in the work of the Lord; of which child she is now big, and that the said</hi> John Robins <hi>begot it, and that about five weeks hence she expects to be delivered of it.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:100260:3"/>
+            <head>The Examination of ELISABETH PENNY, taken as aforesaid.</head>
+            <p>VVHo likewise confesseth (with uncivil gestures, clapping her hands, and otherwise) <hi>That the aforesaid</hi> John Robins <hi>is her almighty and eternal God, and that she expecteth to be delivered by none other.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>The Examination of JOAN GAR<g ref="char:EOLhyphen"/>MENT, taken as aforesaid.</head>
+            <p>VVHo saith, <hi>That the aforesaid</hi> John Robins <hi>hath been ever her God, but not made known unto her till within these twelve moneths; and she believeth that he is her God almighty:</hi> and she further saith, <hi>that she belie<g ref="char:EOLhyphen"/>veth that</hi> Joan Robins <hi>will be delivered of that Christ that suffered without the gates of Jerusalem.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>The Examination of JOSHUA GAR<g ref="char:EOLhyphen"/>MENT, taken as aforesaid.</head>
+            <p>VVHo saith, <hi>That in the yeer</hi> 1631. <hi>as he was lying in his bed, the glory of the Lord did shine about him, and the Angels of the Lord appeared unto him, one especially speaking unto him, Fear not thou servant of the
+<pb n="4" facs="tcp:100260:4"/>most high God, I am sent unto thee, to declare unto thee things that shall be suddenly done in the world; which is the gathering and deliverance of the twelve scattered Tribes, but the Religious men of the times must and shall oppose it; be thou silent, until thou art commanded to declare it to thy God. In the yeer</hi> 1647▪ <hi>the word of the Lord came to me to the ear, by the voice saying, Thou art within my new Covenant, I will teach thee. The day following the Lord told him, I the Lord have appointed thee to salvation from eternity, thou shalt eat of the bread of life, and shalt live; and brought him some bread, and he did eat. A voice came to him within few days following, saying,</hi> JOSHER<g ref="char:EOLhyphen"/>BAH, JOSHERBAH, <hi>the time draws neer that the Jews must be gathered and delivered. Then he saw the man</hi> John Robins <hi>riding upon the wings of the winde, in great glory and majesty; The word of the Lord came unto him in great power; This is thy Lord, Israels King, Judge, and Law-giver, He it is that must deliver the scattered He<g ref="char:EOLhyphen"/>brews; proclaim his day; but he shall be opposed by all men, but they shall be brought in subjection to him by the word of his mouth, he being so set by his Creator.</hi> This Examinant confesseth and saith, <hi>That the said</hi> John Robins <hi>is his al<g ref="char:EOLhyphen"/>mighty God, so set by his Creator.</hi>
+            </p>
+            <p>And further saith, <hi>That</hi> Joan Robins <hi>is the mother of the Church, both of Jews and Gentiles, to bring forth that seed which was promised to</hi> Adam <hi>in the Garden; and the said</hi> John Robins <hi>is the same</hi> Adam <hi>that was in the Garden.</hi>
+            </p>
+            <p>His several Names written with his own Hand. <hi>Josherbah, Tangan, Tangan, Tangarden, Pesau<g ref="char:EOLhyphen"/>taviah, Phstanvah, Jah, Acher, Absha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ba, Ha: Jah, Moses,</hi> the servant of the Lord, <hi>Joshua Garment.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:100260:4"/>
+            <head>The Examination of RICHARD KING, taken as aforesaid.</head>
+            <p>VVHo being examined concerning the aforesaid <hi>John Robins,</hi> he did confess and declare, <hi>That the said</hi> John Robins <hi>was one of the three that bear Record in hea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>; and that he is the Father of Jesus Christ.</hi>
+            </p>
+            <p>And being further examined with what the said <hi>Joan Robins</hi> was with child; he said, <hi>She was with child of Jesus Christ.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>The Examination of JOHN ROBINS taken as aforesaid.</head>
+            <p>VVHo being demanded what he was, he saith, <hi>That God his Creator did by his almighty power declare unto him, that his name shall be called Almighty.</hi>
+            </p>
+            <p>This Examinant further saith, <hi>That</hi> Joan Robins <hi>is his wife by the Lord; and that she is now with child with that child that was first called</hi> Abel, <hi>and then</hi> Jesus Christ the Righteous, <hi>and afterwards</hi> Jehovah Jah. <hi>And that he</hi> (this Examinant) <hi>shall judge us all at the Judgement seat.</hi>
+            </p>
+            <p>This Examinant denyes to subscribe his Examination.</p>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:100260:5"/>
+            <p>THeir behaviours as they were bringing, was clapping of their hands, and hollowing and skreeking; and their God and Prophet crying out all the way they came, <hi>The glory of the Lord, the glory of the Lord.</hi>
+            </p>
+            <p>And before the Justice, the said Prophet (named <hi>Joshua Garment</hi>) prostrated his body on the ground at the feet of the god, and the women cast themselves down at his sides, and so lay; then the Prophet clasping his arms about the god's leggs, cryed out, <hi>deliver us, deliver us:</hi> whereupon the god stamped with his feet on the floor, and clapped his hands, saying, <hi>Arise and be hanged;</hi> whereupon they immediately arose, and said, <hi>Arise for ever.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Exurgat Deus, &amp; dissipentur inimici.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100260:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
